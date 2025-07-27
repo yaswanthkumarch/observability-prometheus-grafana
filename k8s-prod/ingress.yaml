@@ -46,6 +46,6 @@ spec:
                   number: 80
   tls:
     - hosts:
-        - adityajaiswal.com
-        - www.adityajaiswal.com
-      secretName: adityajaiswal-co-tls
+        - yaswanth.com
+        - www.yaswanth.com
+      secretName: yaswanth-co-tls
