@@ -6,7 +6,7 @@ services:
     container_name: mysql
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: Aditya
+      MYSQL_ROOT_PASSWORD: yaswanth
       MYSQL_DATABASE: crud_app
     volumes:
       - mysql-data:/var/lib/mysql
@@ -20,9 +20,9 @@ services:
     environment:
       DB_HOST: mysql
       DB_USER: root
-      DB_PASSWORD: Aditya
+      DB_PASSWORD: yaswanth
       DB_NAME: crud_app
-      JWT_SECRET: devopsShackSuperSecretKey
+      JWT_SECRET: yaswanthSuperSecretKey
       RESET_ADMIN_PASS: 'true'
     depends_on:
       - mysql
