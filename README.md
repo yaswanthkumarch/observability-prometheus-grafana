@@ -1,6 +1,4 @@
-Here’s the complete README file all in one code block for easy copy-paste:
 
-````markdown
 # 3-Tier DevSecOps Project
 
 This repository contains a simple Node.js API and a React client for a user management demo. It demonstrates a typical 3-tier architecture setup with backend API and frontend client, perfect for exploring DevSecOps practices.
@@ -77,18 +75,3 @@ You should see the React client with an animated banner welcoming you to **DevOp
 * Make sure ports 3000 and the API port are free on your machine.
 * You can customize API endpoints and ports in the respective project config files.
 * This project is designed to be a base for integrating CI/CD, monitoring, and security practices.
-
----
-
-## License
-
-MIT License
-
----
-
-Happy coding! 🚀
-
-```
-
-Just copy all of this and save as `README.md` in your project root! Let me know if you want it enhanced or customized!
-```
