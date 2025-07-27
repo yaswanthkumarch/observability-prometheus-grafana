@@ -66,7 +66,7 @@ Once both servers are running, open your browser and visit:
 http://localhost:3000
 ```
 
-You should see the React client with an animated banner welcoming you to **DevOps Shack** and be able to interact with the user management features.
+You should see the React client with an animated banner welcoming you to screen  and be able to interact with the user management features.
 
 ---
 
